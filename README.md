@@ -1,6 +1,6 @@
 ## React Redux with Firebase Full Stack Project
 
-It contains firebase authentication, firestore for storing data & notifications via firebase cloud functions. It is hosted with firebase hsoting. In this project user can Register with email & password. After that user can view dashboard where projects created by all users are visible, one can click project card to see project details in different route. Each time a new user signs up or creates a project then all loggedin users are notified in Notification section of dashboard.
+It contains firebase authentication, firestore for storing data & notifications via firebase cloud functions. It is hosted with firebase hosting. In this project user can Register with email & password. After that user can view dashboard where projects created by all users are visible, one can click project card to see project details in different route. Each time a new user signs up or creates a project then all loggedin users are notified in Notification section of dashboard.
 
 
 ### Project Demo 🎬
@@ -26,7 +26,7 @@ It contains firebase authentication, firestore for storing data & notifications 
 |                            | `/project/:id` Project Detail Route  |
 
 
-### Porject Packages & Dependencies 🕹
+### Project Packages & Dependencies 🕹
 
 > React project is created with `create-react-app` & Firebase functions using `firebase init`
 
