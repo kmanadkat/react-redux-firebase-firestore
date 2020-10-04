@@ -4,10 +4,7 @@ It contains firebase authentication, firestore for storing data & notifications 
 
 ### Project Demo 🎬
 
-
-<p align="center">
 [![React Redux Firebase Project Demo](./poster.jpg)](https://youtu.be/VG-QFiRA6SE "React Redux Firebase Project Demo")
-</p>
 
 
 ### Project Routes ⛳️
