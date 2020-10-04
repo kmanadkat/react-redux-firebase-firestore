@@ -1,0 +1,45 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url('/img/bg.png') no-repeat;
+  background-size: cover;
+  background-position: center bottom ;
+  background-color: #269CFD;
+}
+
+form {
+  padding: 32px;
+  margin-top: 40px;
+}
+
+form button, form h5 {
+  margin: 20px 0;
+}
+
+.project-list {
+  padding-top: 0;
+}
+
+.project-list .card {
+  margin-top: 0;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]){
+  border-color: #5C6BC0;
+  box-shadow: none;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label,
+input[type=email]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label{
+  color: #5C6BC0 !important;
+}
