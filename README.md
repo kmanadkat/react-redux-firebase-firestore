@@ -2,10 +2,12 @@
 
 It contains firebase authentication, firestore for storing data & notifications via firebase cloud functions. It is hosted with firebase hsoting. In this project user can Register with email & password. After that user can view dashboard where projects created by all users are visible, one can click project card to see project details in different route. Each time a new user signs up or creates a project then all loggedin users are notified in Notification section of dashboard.
 
+### Project Demo 🎬
 
-<div style="text0align:center;">
-  <img src="./poster.jpg" width="800px" alt="Dashboard Screen" >
-</div>
+
+<p align="center">
+[![React Redux Firebase Project Demo](./poster.jpg)](https://youtu.be/VG-QFiRA6SE "React Redux Firebase Project Demo")
+</p>
 
 
 ### Project Routes ⛳️
